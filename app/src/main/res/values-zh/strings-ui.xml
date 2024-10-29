@@ -39,7 +39,7 @@
     <string name="whatsnew_menu">更新资讯</string>
     <string name="whatsnew_title">What\'s new：</string>
     <string name="whatsnew">
-<![CDATA[<h3>请仔细阅读！</h3>由版权方要求，我们在一个不存在的应用商店移除了~Androminion~。请！不要！把这个程序在任何其它公开的应用商店发布，因为今后将会有一个官方的Dominion程序。<br><br> <h3>版本9.03</h3> * Renaissance Previews! <br><h3>版本 8.10</h3> * 午夜狂曲！<br> * 推广卡片：拆除<h3>版本 7.06</h3> * 帝国崛起！<br> * 皇輿争霸和暗潮汹涌第二版！<br> * 推广卡片：桑拿&冬泳<h3>版本 6.07</h3> * 冒险时刻！<br> * 推广卡片：藏匿，召唤<h3>版本 6.00</h3> * 冒险时刻（测试版）！<h3>版本 5.01</h3> * 推广卡片：黑市！<br> * 推广卡片：王子！<br> * 更多语言加入<br> * 成堆的Bug修复与其他修改<h3>版本 5.00</h3> * 同业公会！<br> * 更多语言加入<br> * Bug修复<br> <h3>版本 4.02</h3> * 神奇海盗团实现<br> * 许多Bug修复<h3>版本 4.00</h3> * 黑暗时代！*更早的更新懒得翻译了，请有兴趣的读者改成英文版看吧:)<font color="lime">~Androminion~现已开源！</font>这些更新如果没有许多成员的帮助将不可能实现，请移步致谢查看他（她）们的名字。你也可以加入！前往Github页面来提交Bug，请求，翻译或是任何其它你感兴趣的想法：<br/><a href="https://github.com/mehtank/androminion">https://github.com/mehtank/androminion</a><br/><br/>]]>
+<![CDATA[<h3>请仔细阅读！</h3>由版权方要求，我们在一个不存在的应用商店移除了~Androminion~。请！不！要！把这个程序在任何其它公开的应用商店发布，因为今后将会有一个官方的Dominion程序。<br><br> <h3>版本9.03</h3> * Renaissance Previews! <br><h3>版本 8.10</h3> * 午夜狂曲！<br> * 推广卡片：拆除<h3>版本 7.06</h3> * 帝国崛起！<br> * 皇輿争霸和暗潮汹涌第二版！<br> * 推广卡片：桑拿&冬泳<h3>版本 6.07</h3> * 冒险时刻！<br> * 推广卡片：藏匿，召唤<h3>版本 6.00</h3> * 冒险时刻（测试版）！<h3>版本 5.01</h3> * 推广卡片：黑市！<br> * 推广卡片：王子！<br> * 更多语言加入<br> * 成堆的Bug修复与其他修改<h3>版本 5.00</h3> * 同业公会！<br> * 更多语言加入<br> * Bug修复<br> <h3>版本 4.02</h3> * 神奇海盗团实现<br> * 许多Bug修复<h3>版本 4.00</h3> * 黑暗时代！*更早的更新懒得翻译了，请有兴趣的读者改成英文版看吧:)<font color="lime">~Androminion~现已开源！</font>这些更新如果没有许多成员的帮助将不可能实现，请移步致谢查看他（她）们的名字。你也可以加入！前往Github页面来提交Bug，请求，翻译或是任何其它你感兴趣的想法：<br/><a href="https://github.com/mehtank/androminion">https://github.com/mehtank/androminion</a><br/><br/>]]>
     </string>
     <string name="contrib_menu">致谢</string>
     <string name="contrib_title">贡献者：</string>
@@ -50,7 +50,7 @@
     <string name="game_type_random">随机</string>
     <string name="game_type_preset">预设</string>
     <string name="game_type_last">重复上一次游玩</string>
-    <string name="game_type_specified">指定要玩的卡</string>
+    <string name="game_type_specified">指定要玩的牌</string>
     <string name="random_all_cards">全部</string>
     <string name="include_platinum_colony">白金&amp;殖民地</string>
     <string name="include_shelters">避难所：</string>
@@ -71,7 +71,7 @@
     <string name="currentplayer">当前玩家</string>
     <string name="you">你</string>
     <string name="start_game">开始游戏！</string>
-    <string name="card_set_cards">使用的卡： %1$s</string>
+    <string name="card_set_cards">使用的牌： %1$s</string>
     <string name="card_set_bane">祸根： %1$s</string>
     <string name="card_set_events">事件： %1$s</string>
     <string name="card_set_landmarks">地标： %1$s</string>
@@ -110,7 +110,7 @@
     <string name="swindle_button">诈骗</string>
     <string name="all_button">全部</string>
     <string name="hand_header">手牌：</string>
-    <string name="played_header">打出的卡：</string>
+    <string name="played_header">打出的牌：</string>
     <string name="tavern_header">旅店：</string>
     <string name="archive_header">档案馆：</string>
     <string name="crypt_header">地穴：</string>
@@ -118,7 +118,7 @@
     <string name="village_header">村庄：</string>
     <string name="prince_header">王子：</string>
     <string name="turn_header">： \u0020</string>
-    <string name="game_loaded" tools:ignore="TypographyOther">游戏已载入！\n行动，购买和现金\n的数目显示在\n日志里，形式为a/b/(c)</string>
+    <string name="game_loaded" tools:ignore="TypographyOther">游戏已载入！\n行动，购买和钱币\n的数目显示在\n日志里，形式为a/b/(c)</string>
     <string name="actions_buys_coins">%1$s, %2$s, %3$s.</string>
     <string name="action_zero">%1$s 行动</string>
     <string name="action_single">%1$s 行动</string>
@@ -126,11 +126,11 @@
     <string name="buy_zero">%1$s 购买</string>
     <string name="buy_single">%1$s 购买</string>
     <string name="buy_multiple">%1$s 购买</string>
-    <string name="coin_zero">(%1$s) 现金</string>
-    <string name="coin_single">(%1$s) 现金</string>
-    <string name="coin_multiple">(%1$s) 现金</string>
+    <string name="coin_zero">(%1$s) 钱币</string>
+    <string name="coin_single">(%1$s) 钱币</string>
+    <string name="coin_multiple">(%1$s) 钱币</string>
     <string name="final_view_card_counts">查看卡组</string>
-    <string name="final_view_text">%1$s：%2$s 分\n%3$s 回合, %4$s 张卡.</string>
+    <string name="final_view_text">%1$s：%2$s 分\n%3$s 回合, %4$s 张牌.</string>
     <string name="final_game_time">游戏时间： %1$s</string>
     <string name="potion_cost_initial">p</string>
     <string name="accept">接受</string>
@@ -149,8 +149,8 @@
 	<string name="token_plus_one_card">+1 手牌</string>
 	<string name="token_plus_one_action">+1 行动</string>
 	<string name="token_plus_one_buy">+1 购买</string>
-	<string name="token_plus_one_coin">+(1) 现金</string>
-	<string name="token_minus_2_cost">-(2) 价值</string>
+	<string name="token_plus_one_coin">+(1) 钱币</string>
+	<string name="token_minus_2_cost">-(2) 价格</string>
 	<string name="token_trashing">废弃</string>
 	<string name="token_colon">：\u0020</string>
 	<string name="token_separator">，\u0020</string>
@@ -159,25 +159,25 @@
 	<string name="token_debt">负债</string>
 	<string name="token_trade_route">商路</string>
 	<string name="bane_card">祸根卡</string>
-	<string name="obelisk_card">方尖碑卡（价值(2)分）</string>
+	<string name="obelisk_card">方尖碑卡（价格(2)分）</string>
 	<string name="status_turn_number">回合%1$s%2$s</string>
 	<string name="status_current_turn">\u0020（当前回合）</string>
-	<string name="status_deck_size">牌堆中的卡： %1$s%2$s</string>
+	<string name="status_deck_size">牌堆中的牌： %1$s%2$s</string>
 	<string name="status_stash_on_deck">\u0020（&lt;藏匿&gt;在牌堆顶）</string>
 	<string name="status_hand_size">手牌： %1$s</string>
 	<string name="status_hand_stashes">手牌中的&lt;藏匿&gt;： %1$s</string>
 	<string name="status_total_cards">总卡数： %1$s</string>
-	<string name="status_has_minus_coin_token">拥有~-(1) 现金~指示物</string>
-	<string name="status_has_minus_card_token">拥有~-1 抽卡~指示物</string>
+	<string name="status_has_minus_coin_token">拥有~-(1) 钱币~指示物</string>
+	<string name="status_has_minus_card_token">拥有~-1 抽牌~指示物</string>
 	<string name="status_journey_token_up">旅行指示物正面朝上</string>
 	<string name="status_journey_token_down">旅行指示物背面朝上</string>
-	<string name="status_has_deluded">拥有&lt;轻信&gt;（购买阶段开始时归还，这一回合不能购买【动作】）</string>
-	<string name="status_has_envious">拥有&lt;嫉妒&gt;（购买阶段开始时归还，你这一回合&lt;银币&gt;和&lt;黄金&gt;均只能提供(1)现金）</string>
-	<string name="status_has_lostInTheWoods">拥有&lt;迷失在林中&gt;（在你的回合开始时，你可以丢弃一张卡来接受一个祝福。）</string>
+	<string name="status_has_deluded">拥有&lt;轻信&gt;（购买阶段开始时归还，本回合不能购买【行动】牌）</string>
+	<string name="status_has_envious">拥有&lt;嫉妒&gt;（购买阶段开始时归还，你本回合&lt;银币&gt;和&lt;黄金&gt;均只能提供(1)钱币）</string>
+	<string name="status_has_lostInTheWoods">拥有&lt;迷失在林中&gt;（在你的回合开始时，你可以丢弃 1 张牌来接受一个祝福。）</string>
 	<string name="status_has_miserable">拥有&lt;悲惨&gt; （-(2)分）</string>
 	<string name="status_has_twiceMiserable">拥有&lt;双重悲惨&gt; （-(4)分）</string>
-	<string name="status_coin_tokens">资金板块上的指示物：%1$s个</string>
-	<string name="status_pirate_tokens">海盗船板块上的指示物：%1$s个</string>
+	<string name="status_coin_tokens">资金区上的指示物：%1$s个</string>
+	<string name="status_pirate_tokens">海盗船区上的指示物：%1$s个</string>
 	<string name="status_debt_tokens">负债指示物：%1$s个</string>
 	<string name="status_victory_tokens">分数指示物：%1$s个</string>
 	<string name="card_more_info">更多信息</string>

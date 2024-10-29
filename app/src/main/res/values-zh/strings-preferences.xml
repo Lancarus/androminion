@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-	<string name="general_tab_pref_title">General</string>
+	<string name="general_tab_pref_title">常规</string>
 	<string name="name_pref_title">昵称</string>
 	<string name="name_pref_summary">您在游戏中的代号</string>
 	<string name="pref_theme_title">界面主题</string>
@@ -26,9 +26,9 @@
 	<string name="quick_play_pref_title">懒人选项</string>
 	<string name="quick_play_pref_summary">有些可选条目会自动选择</string>
 	<string name="action_chains_pref_title">行动链</string>
-	<string name="action_chains_pref_summary">允许选择多个【动作】来依次打出</string>
+	<string name="action_chains_pref_summary">允许选择多个【行动】牌来依次打出</string>
 	<string name="suppress_redundant_reactions_pref_title">快速反应</string>
-	<string name="suppress_redundant_reactions_pref_summary">有些【反应】自动展示或者使用</string>
+	<string name="suppress_redundant_reactions_pref_summary">有些【反应】牌自动展示或者使用</string>
 	<string name="vibescreen_pref_title">震动</string>
 	<string name="allvibes_pref_title">启用</string>
 	<string name="clickvibeon_pref_title">选中卡时</string>
@@ -37,7 +37,7 @@
 	<string name="gamevibeon_pref_title">游戏结束时</string>
 
 
-	<string name="game_rules_tab_pref_title">Game rules</string>
+	<string name="game_rules_tab_pref_title">游戏规则</string>
 	<string name="equal_start_hands_pref_title">镜像开局</string>
 	<string name="equal_start_hands_pref_summary">从下一场游戏开始，所有玩家的第一手牌将是相同的。</string>
 	<string name="black_market_title">黑市牌堆</string>
@@ -65,7 +65,7 @@
 		<item>第二版(2016)</item>
 		<item>保留两个版本</item>
 	</string-array>
-	<string name="errata_category_pref_title">勘误</string>
+	<string name="errata_category_pref_title">效果修正</string>
 	<string name="erratamasquerade_pref_title">假面舞会</string>
 	<string name="erratamasquerade_pref_summary">跳过那些没有手牌的玩家（暗潮汹涌第二版修正）</string>
 	<string name="erratamine_pref_title">矿井</string>
@@ -79,7 +79,7 @@
 		<item>使用占据的玩家只获取负债指示物（炼金术师第二版修正）</item>
 	</string-array>
 	<string name="erratathroneroom_pref_title">王座室</string>
-	<string name="erratathroneroom_pref_summary">可选的打出【动作】（皇輿爭霸第二版修正）</string>
+	<string name="erratathroneroom_pref_summary">可选的打出【行动】牌（皇輿爭霸第二版修正）</string>
 	<string name="erratashuffling_pref_title">洗牌</string>
 	<string name="erratashuffling_pref_summary">抽卡数目比牌堆剩余卡的数目多时先切洗（皇輿爭霸第二版修正）</string>
 
@@ -114,21 +114,23 @@
 	<string name="pref_show_game_log_title">游戏日志</string>
 	<string name="pref_show_game_log_summary">在游戏过程中显示日志</string>
 	<string name="one_turn_logs_pref_title">仅保留最近一轮的日志</string>
-	<string name="one_turn_logs_pref_summary">RT.</string>
-	<string name="game_over_castle_details_pref_title">显示【城堡】计分细节</string>
-	<string name="game_over_castle_details_pref_summary">计分时每一张【城堡】逐条显示</string>
+	<string name="one_turn_logs_pref_summary"></string>
+	<string name="game_over_castle_details_pref_title">显示【城堡】牌计分细节</string>
+	<string name="game_over_castle_details_pref_summary">计分时每一张【城堡】牌逐条显示</string>
 	<string name="game_over_vp_token_details_pref_title">显示分数指示物计分细节</string>
 	<string name="game_over_vp_token_details_pref_summary">计分时按分数指示物来源逐条显示</string>
 	<string name="next_game_pref_title">游戏内选项（在之后的游戏中生效）</string>
 	<string name="card_counts_pref_title">查看卡组</string>
-	<string name="card_counts_pref_summary">显示牌堆、手牌和拥有的总卡数</string>
+	<string name="card_counts_pref_summary">显示牌堆/手牌/总卡数</string>
+    <string name="vp_counter_pref_title">分数统计</string>
+	<string name="vp_counter_pref_summary">游戏内显示实时总分</string>
 	<string name="mask_names_pref_title">隐藏AI昵称</string>
 	<string name="mask_names_pref_summary">直到游戏最后才会显示AI昵称</string>
 	<string name="sort_cards_pref_title">手牌自动排序</string>
-	<string name="sort_cards_pref_summary">按照卡片类型排序：【动作~Action】，【宝藏~Treasure】，【诅咒~Curse】，【分数~Victory】</string>
+	<string name="sort_cards_pref_summary">按照卡片类型排序：【行动】，【财富】，【诅咒】，【分数】</string>
 
 
-	<string name="logging_testings_tab_pref_title">Logs and debug</string>
+	<string name="logging_testings_tab_pref_title">日志和调试</string>
 	<string name="logging_pref_title">游戏日志</string>
 	<string name="logging_enable_pref_title">启用</string>
 	<string name="logging_enable_pref_summary">以文本格式储存到储存卡中</string>
@@ -136,7 +138,7 @@
 	<string name="logging_dir_pref_summary">必要时会被创建</string>
 	<string name="testing_pref_title">调试</string>
 	<string name="god_mode_pref_title">测试模式</string>
-	<string name="god_mode_pref_summary">每回合开始时拥有(999)现金，999购买，999行动</string>
+	<string name="god_mode_pref_summary">每回合开始时 +(999) 钱币，+999 购买，+999 行动</string>
 	<string name="less_provinces_pref_title">只有一个&lt;行省&gt;</string>
 	<string name="less_provinces_pref_summary">在补给堆中</string>
 	<string name="start_no_cards_pref_title">开始没卡</string>
@@ -146,5 +148,5 @@
 	<string name="disable_ai_pref_title">禁用AI</string>
 	<string name="disable_ai_pref_summary">AI玩家什么都不做</string>
 	<string name="start_guilds_coin_tokens_pref_title">资金</string>
-	<string name="start_guilds_coin_tokens_pref_summary">开始时 +99 资金</string>
+	<string name="start_guilds_coin_tokens_pref_summary">游戏开始时 +(99) 钱币</string>
 </resources>

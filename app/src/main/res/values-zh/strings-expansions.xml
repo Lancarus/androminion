@@ -9,14 +9,15 @@
     <string name="Seaside">海国图志</string>
     <string name="Alchemy">炼金术师</string>
     <string name="Prosperity">荣华富贵</string>
-    <string name="Cornucopia">丰收祭典</string>
+    <string name="Cornucopia">丰收庆典</string>
     <string name="Hinterlands">内陆迷情</string>
     <string name="DarkAges">黑暗时代</string>
     <string name="Guilds">同业公会</string>
     <string name="Adventures">冒险时刻</string>
     <string name="Empires">帝国崛起</string>
     <string name="Nocturne">午夜狂曲</string>
-    <string name="Renaissance">再生</string>
+    <string name="Renaissance">文艺复兴</string>
+    <string name="Menagerie">动物王国</string>
     <string name="Promo">推广卡片</string>
     
 </resources>
